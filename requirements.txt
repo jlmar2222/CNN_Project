@@ -1,0 +1,9 @@
+Pillow
+numpy
+torch
+torchvision
+tqdm
+tensorboard
+fastapi
+pydantic
+requests
