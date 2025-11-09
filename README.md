@@ -30,7 +30,6 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
 - **Modal** → Plataforma de computación en la nube para ejecutar código con acceso a GPU.
 - **TensorBoard** → Monitoreo del proceso de entrenamiento (loss, accuracy, etc.).
 - **Matplotlib / NumPy / PIL** → Procesamiento y visualización de imágenes.
-- **Git & GitHub** → Control de versiones y despliegue del proyecto.
 
 ---
 
@@ -47,26 +46,14 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
    Durante este proceso, se generan métricas registradas en **TensorBoard**.
 
 4. **Inferencia:**
-   - **Remota:** `main.py` obtiene el modelo desde la nube a través de la API de Modal.  
+   - **Remota:** `main.py` obtiene el modelo desde la nube a través de modal y recupera la predicción.  
    - **Local:** `local_inference.py` utiliza el archivo `best_model.pth` para hacer inferencia en local y visualizar las activaciones intermedias.
 
 ---
 
-## 📊 Resultados y visualización
+## 📊 Resultados 
 
-El proyecto permite:
-- Visualizar el entrenamiento con **TensorBoard** (loss, accuracy, etc.).
-- Observar las **activaciones de las primeras kernels** del modelo durante la inferencia local, lo que ayuda a entender cómo la red procesa las imágenes.
+- El modelo termina con una accuracy del 85.90%
 
----
+  ![Visualización de activaciones](Final_accuracy.png)
 
-## 💡 Aprendizajes y objetivos
-
-Este proyecto me ha permitido:
-- Profundizar en la **arquitectura ResNet** y sus bloques residuales.  
-- Aprender a **entrenar modelos en la nube** utilizando **Modal**.  
-- Integrar **TensorBoard** para el seguimiento de métricas.  
-- Desarrollar herramientas de **visualización de convoluciones** para analizar el comportamiento interno del modelo.  
-- Gestionar un proyecto completo con **Git y GitHub**, documentando y estructurando el código de forma profesional.
-
----
