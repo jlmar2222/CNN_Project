@@ -19,7 +19,6 @@ El objetivo principal es entrenar y desplegar un modelo de clasificaci√≥n de im√
 | **best_model.pth** | Archivo con los pesos del modelo entrenado. |
 | **perrete.webp** | Imagen de ejemplo utilizada para realizar pruebas de inferencia local. |
 | **requirements.txt** | Lista de dependencias necesarias para ejecutar el proyecto. |
-| **tensorboard_logs/** | Carpeta donde se almacenan los logs generados por **TensorBoard** durante el entrenamiento. |
 
 ---
 
@@ -56,4 +55,5 @@ El objetivo principal es entrenar y desplegar un modelo de clasificaci√≥n de im√
 - El modelo termina con una accuracy del 85.90%
 
   ![Visualizaci√≥n de activaciones](Final_accuracy.png)
+
 
