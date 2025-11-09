@@ -67,12 +67,14 @@ Analysis, Applications, and Prospects](https://arxiv.org/pdf/2004.02806)
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
 
 2. **Implementación Práctica:**
+   
    - [Andreas Trolle, Audio CNN](https://github.com/Andreaswt/audio-cnn/tree/main):
      Todo el projecto esta fuertemente basado en este repositorio donde el autor hace una exposición brillante de como aterrizar todos estos conceptos y crear y entrenar un modelo: 
    - [ResNet-PyTorch](https://github.com/JayPatwardhan/ResNet-PyTorch/tree/master):
      Codigo para una ResNet de clasificacion con CIFAR10
    - [Base de Datos](https://github.com/RizwanMunawar/Cats-vs-dogs-classification-computer-vision-/tree/master):
      El entrenamiento se lleva a cabo siguiendo los datos extraidos de este repositorio.
+
 
 
 
