@@ -57,6 +57,13 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
   ![Visualización de activaciones](Final_accuracy.png)
 
 
+## 🖼️ Referencias
+
+Este projecto forma parte de mi primer acercamiento hacia el mundo de la visión computacional y no podria haber sido posible sin el material que presentaré a continuación:
+
+1. **Estudio Teórico:**
+  - [A Survey of Convolutional Neural Networks:
+Analysis, Applications, and Prospects](https://arxiv.org/pdf/2004.02806) 
 
 
 
