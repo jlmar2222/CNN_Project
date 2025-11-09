@@ -73,9 +73,10 @@ Analysis, Applications, and Prospects](https://arxiv.org/pdf/2004.02806)
      
    - [ResNet-PyTorch](https://github.com/JayPatwardhan/ResNet-PyTorch/tree/master)
      
-   - [Base de Datos](https://github.com/RizwanMunawar/Cats-vs-dogs-classification-computer-vision-/tree/master):
+   - [Base de Datos](https://github.com/RizwanMunawar/Cats-vs-dogs-classification-computer-vision-/tree/master)
 
-En especial agradecimiento a [Andreas Trolle, Audio CNN](https://github.com/Andreaswt/audio-cnn/tree/main); su repositorio y el correspondiente video de Youtube son una guía magistral sobre como se pueden aterrizar todos estos conceptos e implementarlos en un projecto real, desde los fundamnetos teóricos al entrenamiento y la posterior inferencia.  
+Un especial agradecimiento a **Andreas Trolle, Audio CNN**. Su repositorio y el correspondiente video de Youtube son una guía magistral sobre como se pueden aterrizar todos estos conceptos e implementarlos en un projecto real, desde los fundamnetos teóricos al entrenamiento y la posterior inferencia.  
+
 
 
 
