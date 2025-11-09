@@ -16,7 +16,7 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
 | **train.py** | Script de **entrenamiento** del modelo en la nube utilizando **Modal** (permite usar GPU). Incluye configuración de TensorBoard para el seguimiento de métricas. |
 | **main.py** | Código de **inferencia remota**. Conecta con la API de Modal para recuperar el modelo entrenado y realizar predicciones desde la nube. |
 | **local_inference.py** | Alternativa de inferencia **local**. Carga el modelo entrenado (`best_model.pth`) y genera una **visualización** del procesamiento en las primeras capas convolucionales. |
-| **best_model.pth** | NOmbre del archivo donde se guardarán los pesos del modelo entrenado. (se deberá recuperar desde el modal volume creado) |
+| **best_model.pth** | Nombre del archivo donde se guardarán los pesos del modelo entrenado (se deberá recuperar desde el modal volume creado) . |
 | **perrete.webp** | Imagen de ejemplo utilizada para realizar pruebas de inferencia local. |
 | **requirements.txt** | Lista de dependencias necesarias para ejecutar el proyecto. |
 
@@ -55,6 +55,7 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
 - El modelo termina con una accuracy del 85.90%
 
   ![Visualización de activaciones](Final_accuracy.png)
+
 
 
 
