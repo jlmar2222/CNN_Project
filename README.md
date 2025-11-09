@@ -64,16 +64,19 @@ Este projecto forma parte de mi primer acercamiento hacia el mundo de la visión
 1. **Estudio Teórico:**
   - [A Survey of Convolutional Neural Networks:
 Analysis, Applications, and Prospects](https://arxiv.org/pdf/2004.02806)
+
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385)
 
 2. **Implementación Práctica:**
    
-   - [Andreas Trolle, Audio CNN](https://github.com/Andreaswt/audio-cnn/tree/main):
-     Todo el projecto esta fuertemente basado en este repositorio donde el autor hace una exposición brillante de como aterrizar todos estos conceptos y crear y entrenar un modelo: 
-   - [ResNet-PyTorch](https://github.com/JayPatwardhan/ResNet-PyTorch/tree/master):
-     Codigo para una ResNet de clasificacion con CIFAR10
+   - [Andreas Trolle, Audio CNN](https://github.com/Andreaswt/audio-cnn/tree/main)
+     
+   - [ResNet-PyTorch](https://github.com/JayPatwardhan/ResNet-PyTorch/tree/master)
+     
    - [Base de Datos](https://github.com/RizwanMunawar/Cats-vs-dogs-classification-computer-vision-/tree/master):
-     El entrenamiento se lleva a cabo siguiendo los datos extraidos de este repositorio.
+
+En especial agradecimiento a [Andreas Trolle, Audio CNN](https://github.com/Andreaswt/audio-cnn/tree/main); su repositorio y el correspondiente video de Youtube son una guía magistral sobre como se pueden aterrizar todos estos conceptos e implementarlos en un projecto real, desde los fundamnetos teóricos al entrenamiento y la posterior inferencia.  
+
 
 
 
