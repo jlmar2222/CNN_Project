@@ -1,6 +1,6 @@
 # 🧠 CNN Project – Implementación de ResNet-34 con PyTorch y Modal
 
-Este proyecto implementa y entrena una **Red Neuronal Convolucional (CNN)** del tipo **ResNet-34**, desarrollada en **Python** con **PyTorch**.  
+Este proyecto implementa y entrena una **Red Neuronal Convolucional (CNN)** del tipo **ResNet-34**, para clasificar imagenes entre Gatos y Perros. Desarrollado en **Python** con **PyTorch**.  
 El trabajo se divide en una parte teórica (documento PDF) y una parte práctica (código).  
 
 El objetivo principal es entrenar y desplegar un modelo de clasificación de imágenes utilizando **recursos en la nube (Modal)** para aprovechar GPUs, y posteriormente realizar inferencia tanto en la nube como en local con herramientas de visualización.
@@ -55,6 +55,7 @@ El objetivo principal es entrenar y desplegar un modelo de clasificación de im�
 - El modelo termina con una accuracy del 85.90%
 
   ![Visualización de activaciones](Final_accuracy.png)
+
 
 
 
